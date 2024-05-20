@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Build a Home Network</b>
+- <b>Build a secure Home Network (Cisco)</b>
   - [4.4.4 Packet Tracer - Configure a Wireless Router and Client](https://github.com/kevinng2603/SOHO)
 
 <h2>📝 Certification:</h2>
