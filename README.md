@@ -10,8 +10,13 @@
 
 <h2>📝 Certification:</h2>
 
-- <b>[Pursuing Cisco Networking Basics](https://bit.ly/CiscoNetworkBasics) </b>
+- <b>[Cisco Networking Basics](https://www.credly.com/badges/3bf7a6df-2c8a-4177-93e6-7c2b265894fb/public_url) </b>
 - <b>[Pursuing ICS2 Certified in Cybersecurity (CC)](https://www.isc2.org/landing/1mcc)</b>
+
+<p align="left">
+  <img src="https://i.imgur.com/YWMSdTb.png" alt="Cisco Network Basics" width="100"/>
+</p>
+
 
 <h2> 🤳 Connect with me:</h2>
 
