@@ -10,13 +10,16 @@
 
 <h2>📝 Certification:</h2>
 
-- <b>[Cisco Networking Basics](https://www.credly.com/badges/3bf7a6df-2c8a-4177-93e6-7c2b265894fb/public_url) - [[Certification]](https://i.imgur.com/GfTn8Fi.png) </b>
+- <b>[ICS2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/5324e607-3397-4234-ac73-75b52b5ee1cb/public_url) - [[Certification]](https://www.credly.com/badges/5324e607-3397-4234-ac73-75b52b5ee1cb/public_url) </b>
 - <b>[ISC2 Candidates](https://www.credly.com/badges/2ca6d02e-11aa-4470-84ba-998d7c77c341/public_url)</b>
-- <b>[Pursuing ICS2 Certified in Cybersecurity (CC)](https://www.isc2.org/landing/1mcc)</b>
+- <b>[Cisco Networking Basics](https://www.credly.com/badges/3bf7a6df-2c8a-4177-93e6-7c2b265894fb/public_url) - [[Certification]](https://i.imgur.com/GfTn8Fi.png) </b>
 
 <p align="left">
-  <img src="https://i.imgur.com/YWMSdTb.png" alt="Cisco Network Basics" width="100"/>
+  
+  <img src="https://i.imgur.com/xA3aEyQ.png" alt="ISC2 Candidates" width="100"/>
   <img src="https://i.imgur.com/KTTcpkN.png" alt="ISC2 Candidates" width="100"/>
+  <img src="https://i.imgur.com/YWMSdTb.png" alt="Cisco Network Basics" width="100"/>
+  
 </p>
 
 
