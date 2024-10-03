@@ -9,10 +9,15 @@
   - [Active Directory Bulk User Creation](https://github.com/kevinng2603/ActiveDirectory_PS)
 
 <h2>📝 Certification:</h2>
-
+<!--
 - <b>[ICS2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/5324e607-3397-4234-ac73-75b52b5ee1cb/public_url) - [[Certification]](https://i.imgur.com/el1tTUd.png) </b>
 - <b>[ISC2 Candidates](https://www.credly.com/badges/2ca6d02e-11aa-4470-84ba-998d7c77c341/public_url)</b>
 - <b>[Cisco Networking Basics](https://www.credly.com/badges/3bf7a6df-2c8a-4177-93e6-7c2b265894fb/public_url) - [[Certification]](https://i.imgur.com/GfTn8Fi.png) </b>
+--!>
+
+- <b>[ICS2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/5324e607-3397-4234-ac73-75b52b5ee1cb/public_url) - [[Certification]](Certifications/ISC2CC_Cert.pdf) </b>
+- <b>[ISC2 Candidates](https://www.credly.com/badges/2ca6d02e-11aa-4470-84ba-998d7c77c341/public_url)</b>
+- <b>[Cisco Networking Basics](https://www.credly.com/badges/3bf7a6df-2c8a-4177-93e6-7c2b265894fb/public_url) - [[Certification]](Certifications/Cisco_Networking_Basics_Badge.pdf) </b>
 
 <p align="left">
   
